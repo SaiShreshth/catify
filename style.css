@@ -2,7 +2,6 @@
 
 body {
     background-color: antiquewhite;
-    overflow: hidden;
 }
 
 html, body {
@@ -140,4 +139,13 @@ nav ul li {
     margin: 0;
     bottom: 0;
     position: fixed;
+    padding: 8px;
+}
+
+.player .playerimg {
+    width: 75px;
+    height: 75px;
+    border-radius: 10px;
+    margin: 0px 5px;
+    background-color: burlywood;
 }
